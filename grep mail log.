@@ -1,0 +1,1 @@
+grep keyword_to_grep /var/log/exim/main.log
