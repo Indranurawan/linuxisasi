@@ -1,0 +1,3 @@
+mysql -uroot -p (user database) < myahokco_u9319836_u4727525_wp385.sql
+
+password root sql: cat /var/webuzo/my.conf
